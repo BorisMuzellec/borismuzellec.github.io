@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-# Boris Muzellec #
 
 I am a PhD student at CREST, ENSAE, working under the supervision of [Marco Cuturi](http://marcocuturi.net). My research is focused on applying tools from the optimal transport theory to machine learning, with a particular interest in unsupervised problems.
 
