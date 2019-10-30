@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Boris Muzellec"
-  avatar           : ""
+  avatar           : #""
   bio              : ""
   location         : #"Location"
   employer         :
