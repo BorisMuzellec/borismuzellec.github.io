@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Muzellec"
+  name             : #"Boris Muzellec"
   avatar           : "profile.jpg"
   bio              : ""
   location         : #"Location"
