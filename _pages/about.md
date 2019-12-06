@@ -15,6 +15,6 @@ I am a PhD student at CREST, ENSAE, working under the supervision of [Marco Cutu
 ## News ##
 
 * [04/09/2019] Our work [Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/abs/1905.10099) was accepted to NeurIPS 2019.
-* [03/09/2019] Started 3-month [Riken AIP](https://aip.riken.jp) internship with [Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo
-* [24/05/2019] New preprint: [Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/abs/1905.10099) 
+* [03/09/2019] Started 3-month [Riken AIP](https://aip.riken.jp) internship with [Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo.
+* [24/05/2019] New preprint: [Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/abs/1905.10099).
 * [13/09/2018] Best paper award at [JDSE2018](https://jdse-paris.github.io/jDSE2018/) for [Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions](https://arxiv.org/abs/1805.07594).
