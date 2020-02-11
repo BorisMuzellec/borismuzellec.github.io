@@ -15,10 +15,12 @@ I am a PhD student at CREST, ENSAE, working under the supervision of [Marco Cutu
 ## News ##
 
 ### Upcoming Events ###
-* [12/12/2019] I will present our [poster](https://borismuzellec.github.io/publications/poster_subspaceOT_final.pdf) for *Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections* at NeurIPS in Vancouver, Canada.
+* [17/03/2020] I will give an introductory talk on optimal transport at the [Orsay Proba/Stats Msc.'s student seminar](https://www.math.u-psud.fr/-Seminaire-des-eleves-?lang=fr).
+* [09-13/03/2020] I will participate in the workshop on [Optimization for Machine Learning](https://conferences.cirm-math.fr/2133.html) at CIRM, Marseille.
+* [13/02/2020] I will give a talk on "The Bures-Wasserstein Distance for Machine Learning" at the [SIERRA seminar](https://www.di.ens.fr/sierra/seminars.php).
+
 
 ### Past Events ###
+* [11/02/2020] New preprint: [Missing Data Imputation using Optimal Transport](http://arxiv.org/abs/2002.03860). Joint work with [Julie Josse](http://juliejosse.com), [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Marco Cuturi](http://marcocuturi.net).
 * [04/09/2019] Our work [Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/abs/1905.10099) was accepted to NeurIPS 2019.
 * [03/09/2019] Started 3-month [Riken AIP](https://aip.riken.jp) internship with [Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo.
-* [24/05/2019] New preprint: [Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/abs/1905.10099).
-* [13/09/2018] Best paper award at [JDSE2018](https://jdse-paris.github.io/jDSE2018/) for [Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions](https://arxiv.org/abs/1805.07594).

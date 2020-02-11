@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+## Preprints ##
+
+Boris Muzellec, Julie Josse, Claire Boyer, Marco Cuturi.
+ **Missing Data Imputation using Optimal Transport**, arXiv preprint. [[Paper]](http://arxiv.org/abs/2002.03860)
+
 ## Conferences ##
 
 Boris Muzellec, Marco Cuturi.
