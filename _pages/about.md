@@ -17,10 +17,11 @@ I am a PhD student at CREST, ENSAE, working under the supervision of [Marco Cutu
 ### Upcoming Events ###
 * [17/03/2020] I will give an introductory talk on optimal transport at the [Orsay Proba/Stats Msc.'s student seminar](https://www.math.u-psud.fr/-Seminaire-des-eleves-?lang=fr).
 * [09-13/03/2020] I will participate in the workshop on [Optimization for Machine Learning](https://conferences.cirm-math.fr/2133.html) at CIRM, Marseille.
-* [13/02/2020] I will give a talk on "The Bures-Wasserstein Distance for Machine Learning" at the [SIERRA seminar](https://www.di.ens.fr/sierra/seminars.php).
+
 
 
 ### Past Events ###
+* [13/02/2020] I gave a talk on "The Bures-Wasserstein Distance for Machine Learning" at the [SIERRA seminar](https://www.di.ens.fr/sierra/seminars.php). [[Slides]](https://borismuzellec.github.io/publications/bures_wasserstein_ml.pdf)
 * [11/02/2020] New preprint: [Missing Data Imputation using Optimal Transport](http://arxiv.org/abs/2002.03860). Joint work with [Julie Josse](http://juliejosse.com), [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Marco Cuturi](http://marcocuturi.net).
 * [04/09/2019] Our work [Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/abs/1905.10099) was accepted to NeurIPS 2019.
 * [03/09/2019] Started 3-month [Riken AIP](https://aip.riken.jp) internship with [Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo.
