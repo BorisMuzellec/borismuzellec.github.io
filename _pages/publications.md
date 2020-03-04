@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints ##
 
+Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2003.00306)
+
 Boris Muzellec, Julie Josse, Claire Boyer, Marco Cuturi.
  **Missing Data Imputation using Optimal Transport**, arXiv preprint. [[Paper]](http://arxiv.org/abs/2002.03860)
 
