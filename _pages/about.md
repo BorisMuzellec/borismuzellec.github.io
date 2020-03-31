@@ -14,6 +14,8 @@ I am a PhD student at CREST, ENSAE, working under the supervision of [Marco Cutu
 
 ## News ##
 
+I am currently looking for a postdoctoral position in Paris! Please do not hesitate to contact me if you have an open position.
+
 ### Upcoming Events ###
 
 ### Recent Events ###
