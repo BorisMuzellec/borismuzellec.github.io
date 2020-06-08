@@ -20,6 +20,7 @@ I am currently looking for a postdoctoral position in Paris! Please do not hesit
 * [12-18/07/2020] I will present our paper "[Missing Data Imputation using Optimal Transport](http://arxiv.org/abs/2002.03860)" at [ICML 2020](https://icml.cc).
 
 ### Recent Events ###
+* [03/06/2020] New preprint: "[Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form](https://arxiv.org/abs/2006.02572)". Joint work with [Hicham Janati](https://hichamjanati.github.io), [Gabriel Peyré](http://www.gpeyre.com) and [Marco Cuturi](https://marcocuturi.net). 
 * [01/06/2020] Our work "[Missing Data Imputation using Optimal Transport](http://arxiv.org/abs/2002.03860)" has been accepted to [ICML 2020](https://icml.cc).
 * [09-13/03/2020] I participated in the [Optimization for Machine Learning](https://conferences.cirm-math.fr/2133.html) workshop at CIRM, Marseille.
 * [03/03/2020] New preprint: [Dimension-free convergence rates for gradient Langevin dynamics in RKHS](https://arxiv.org/abs/2003.00306). Joint work with Kanji Sato, [Mathurin Massias](https://mathurinm.github.io) and [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/).

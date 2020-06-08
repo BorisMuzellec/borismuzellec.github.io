@@ -9,18 +9,20 @@ author_profile: true
 
 ## Preprints ##
 
+Hicham Janati, Boris Muzellec, Gabriel Peyré and Marco Cuturi. **Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2006.02572) [[Code]](https://github.com/hichamjanati/Entropic-OT-gaussians)
+
 Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2003.00306)
 
 ## Conferences ##
 
-Boris Muzellec, Julie Josse, Claire Boyer, Marco Cuturi.
- **Missing Data Imputation using Optimal Transport**, ICML 2020 (to appear). [[Paper]](http://arxiv.org/abs/2002.03860)
+Boris Muzellec, Julie Josse, Claire Boyer and Marco Cuturi.
+ **Missing Data Imputation using Optimal Transport**, ICML 2020 (to appear). [[Paper]](http://arxiv.org/abs/2002.03860) [[Code]](https://github.com/BorisMuzellec/MissingDataOT)
 
 Boris Muzellec, Marco Cuturi.
-  **Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections**, NeurIPS 2019. [[Paper]](https://arxiv.org/abs/1905.10099) [[Poster]](https://borismuzellec.github.io/publications/poster_subspaceOT_final.pdf) [[Slides]](https://borismuzellec.github.io/publications/slides_subspace_detours.pdf)
+  **Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections**, NeurIPS 2019. [[Paper]](https://arxiv.org/abs/1905.10099) [[Poster]](https://borismuzellec.github.io/publications/poster_subspaceOT_final.pdf) [[Slides]](https://borismuzellec.github.io/publications/slides_subspace_detours.pdf) [[Code]](https://github.com/BorisMuzellec/SubspaceOT)
 
 Boris Muzellec, Marco Cuturi.
-  **Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions**, NeurIPS 2018. [[Paper]](https://arxiv.org/abs/1805.07594) [[Poster]](https://borismuzellec.github.io/publications/poster_elliptical_final.pdf)
+  **Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions**, NeurIPS 2018. [[Paper]](https://arxiv.org/abs/1805.07594) [[Poster]](https://borismuzellec.github.io/publications/poster_elliptical_final.pdf) [[Code]](https://github.com/BorisMuzellec/EllipticalEmbeddings)
 
 Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen.
-  **Tsallis Regularized Optimal Transport and Ecological Inference**, AAAI 2017. [[Paper]](https://arxiv.org/abs/1609.04495)
+  **Tsallis Regularized Optimal Transport and Ecological Inference**, AAAI 2017. [[Paper]](https://arxiv.org/abs/1609.04495) [[Code]](https://github.com/BorisMuzellec/TROT)
