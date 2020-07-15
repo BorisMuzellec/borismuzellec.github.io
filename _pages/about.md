@@ -14,7 +14,7 @@ I am a PhD student at CREST, ENSAE, working under the supervision of [Marco Cutu
 
 ## News ##
 
-I received a postdoctoral fellowship from [DIM Math Innov](https://www.dim-mathinnov.fr/en/postdoctoral-laureates-45.htm) to join the [Sierra](https://www.di.ens.fr/sierra/) team this Fall. Looking forward to it!
+I have received a postdoctoral fellowship from [DIM Math Innov](https://www.dim-mathinnov.fr/en/postdoctoral-laureates-45.htm) to join the [Sierra](https://www.di.ens.fr/sierra/) team this Fall. Looking forward to it!
 
 ### Upcoming Events ###
 * [16-17/07/2020] I will present our paper "[Missing Data Imputation using Optimal Transport](http://arxiv.org/abs/2002.03860)" at [ICML 2020](https://icml.cc/virtual/2020/poster/6455) at 9pm Thursday and 8am Friday (CEST).
