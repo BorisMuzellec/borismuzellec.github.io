@@ -16,7 +16,7 @@ Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free 
 ## Conferences ##
 
 Boris Muzellec, Julie Josse, Claire Boyer and Marco Cuturi.
- **Missing Data Imputation using Optimal Transport**, ICML 2020 (to appear). [[Paper]](http://arxiv.org/abs/2002.03860) [[Code]](https://github.com/BorisMuzellec/MissingDataOT)
+ **Missing Data Imputation using Optimal Transport**, ICML 2020. [[Paper]](http://arxiv.org/abs/2002.03860) [[Code]](https://github.com/BorisMuzellec/MissingDataOT)
 
 Boris Muzellec, Marco Cuturi.
   **Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections**, NeurIPS 2019. [[Paper]](https://arxiv.org/abs/1905.10099) [[Poster]](https://borismuzellec.github.io/publications/poster_subspaceOT_final.pdf) [[Slides]](https://borismuzellec.github.io/publications/slides_subspace_detours.pdf) [[Code]](https://github.com/BorisMuzellec/SubspaceOT)
