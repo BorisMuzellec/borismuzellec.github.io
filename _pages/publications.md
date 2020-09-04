@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+A first version of my PhD manuscript can be found [here](https://borismuzellec.github.io/publications/thesis_muzellec.pdf).
+
 ## Preprints ##
 
 Hicham Janati, Boris Muzellec, Gabriel Peyré and Marco Cuturi. **Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2006.02572) [[Code]](https://github.com/hichamjanati/Entropic-OT-gaussians)
