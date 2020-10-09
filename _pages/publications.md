@@ -11,11 +11,11 @@ A first version of my PhD manuscript can be found [here](https://borismuzellec.g
 
 ## Preprints ##
 
-Hicham Janati, Boris Muzellec, Gabriel Peyré and Marco Cuturi. **Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2006.02572) [[Code]](https://github.com/hichamjanati/Entropic-OT-gaussians)
-
 Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2003.00306)
 
 ## Conferences ##
+
+Hicham Janati, Boris Muzellec, Gabriel Peyré and Marco Cuturi. **Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form**, NeurIPS 2020 (oral). [[Paper]](https://arxiv.org/abs/2006.02572) [[Code]](https://github.com/hichamjanati/Entropic-OT-gaussians)
 
 Boris Muzellec, Julie Josse, Claire Boyer and Marco Cuturi.
  **Missing Data Imputation using Optimal Transport**, ICML 2020. [[Paper]](http://arxiv.org/abs/2002.03860) [[Code]](https://github.com/BorisMuzellec/MissingDataOT)
