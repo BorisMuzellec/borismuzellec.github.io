@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A first version of my PhD manuscript can be found [here](https://borismuzellec.github.io/publications/thesis_muzellec.pdf).
+My PhD manuscript can be found [here](https://borismuzellec.github.io/publications/thesis_muzellec.pdf), and the slides of the defense [here](https://borismuzellec.github.io/publications/slides_defense.pdf).
 
 ## Preprints ##
 
@@ -18,7 +18,7 @@ Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free 
 Hicham Janati, Boris Muzellec, Gabriel Peyré and Marco Cuturi. **Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form**, NeurIPS 2020 (oral). [[Paper]](https://arxiv.org/abs/2006.02572) [[Code]](https://github.com/hichamjanati/Entropic-OT-gaussians)
 
 Boris Muzellec, Julie Josse, Claire Boyer and Marco Cuturi.
- **Missing Data Imputation using Optimal Transport**, ICML 2020. [[Paper]](http://arxiv.org/abs/2002.03860) [[Code]](https://github.com/BorisMuzellec/MissingDataOT)
+ **Missing Data Imputation using Optimal Transport**, ICML 2020. [[Paper]](http://arxiv.org/abs/2002.03860) [[Video]](https://slideslive.com/38928185/missing-data-imputation-using-optimal-transport?ref=search) [[Code]](https://github.com/BorisMuzellec/MissingDataOT)
 
 Boris Muzellec, Marco Cuturi.
   **Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections**, NeurIPS 2019. [[Paper]](https://arxiv.org/abs/1905.10099) [[Poster]](https://borismuzellec.github.io/publications/poster_subspaceOT_final.pdf) [[Slides]](https://borismuzellec.github.io/publications/slides_subspace_detours.pdf) [[Code]](https://github.com/BorisMuzellec/SubspaceOT)
