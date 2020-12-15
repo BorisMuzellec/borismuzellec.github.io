@@ -27,5 +27,5 @@ I defended my thesis on the 26th of October: here are the [slides](https://boris
 
 
 ### Recent events ###
-* [01/12/2020] I give a talk at the [Séminaire Palaisien](https://palaisien.herokuapp.com/?fbclid=IwAR0bcezohohtf__JBZoe5NCjzQ7QAEmZLfLx2hfoLcCHwdxgP8HLXvAvVQY), on *The Bures-Wasserstein Geometry for Machine Learning*. [[Slides]](https://borismuzellec.github.io/publications/bw_geom_ml.pdf)
+* [01/12/2020] I gave a talk at the [Séminaire Palaisien](https://palaisien.herokuapp.com/?fbclid=IwAR0bcezohohtf__JBZoe5NCjzQ7QAEmZLfLx2hfoLcCHwdxgP8HLXvAvVQY), on *The Bures-Wasserstein Geometry for Machine Learning*. [[Slides]](https://borismuzellec.github.io/publications/bw_geom_ml.pdf)
 * [02/11/2020] I started a postdoc within the [Sierra](https://www.di.ens.fr/sierra/) team, funded by [DIM Math Innov](https://www.dim-mathinnov.fr/en/postdoctoral-laureates-45.htm).
