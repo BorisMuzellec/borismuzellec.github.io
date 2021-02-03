@@ -7,11 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-My PhD manuscript can be found [here](https://borismuzellec.github.io/publications/thesis_muzellec.pdf), and the slides of the defense [here](https://borismuzellec.github.io/publications/slides_defense.pdf).
+My PhD manuscript can be found [here](https://tel.archives-ouvertes.fr/tel-03084452/document), and the slides of the defense [here](https://borismuzellec.github.io/publications/slides_defense.pdf).
 
 ## Preprints ##
 
-Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint. [[Paper]](https://arxiv.org/abs/2003.00306)
+Adrien Vacher, Boris Muzellec, Alessandro Rudi, Francis Bach and François-Xavier Vialard. **A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/pdf/2101.05380.pdf)
+
+Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint, 2020. [[Paper]](https://arxiv.org/abs/2003.00306)
 
 ## Conferences ##
 
