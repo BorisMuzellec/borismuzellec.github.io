@@ -23,6 +23,8 @@ I defended my thesis on the 26th of October: here are the [slides](https://boris
 
 ### Upcoming events ###
 
+* [14/05/2021] I will present our work [A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation](https://arxiv.org/abs/2101.05380) at the [Young Data Science Researcher Seminar](https://math.ethz.ch/sfs/news-and-events/young-data-science.html) of ETH Zurich.
+
 
 ### Recent events ###
-* [01/02/2021] New preprint: [A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation](https://arxiv.org/pdf/2101.05380.pdf). Joint work with A. Vacher, [A. Rudi](https://www.di.ens.fr/~rudi/), [F. Bach](https://www.di.ens.fr/~fbach/) and [F.X. Vialard](http://angkor.univ-mlv.fr/~vialard/).
+* [01/02/2021] New preprint: [A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation](https://arxiv.org/abs/2101.05380). Joint work with A. Vacher, [A. Rudi](https://www.di.ens.fr/~rudi/), [F. Bach](https://www.di.ens.fr/~fbach/) and [F.X. Vialard](http://angkor.univ-mlv.fr/~vialard/).
