@@ -11,11 +11,11 @@ My PhD manuscript can be found [here](https://tel.archives-ouvertes.fr/tel-03084
 
 ## Preprints ##
 
-Adrien Vacher, Boris Muzellec, Alessandro Rudi, Francis Bach and François-Xavier Vialard. **A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/pdf/2101.05380.pdf)
-
 Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint, 2020. [[Paper]](https://arxiv.org/abs/2003.00306)
 
 ## Conferences ##
+
+Adrien Vacher, Boris Muzellec, Alessandro Rudi, Francis Bach and François-Xavier Vialard. **A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation**, COLT 2021 (to appear). [[Paper]](https://arxiv.org/pdf/2101.05380.pdf)
 
 Hicham Janati, Boris Muzellec, Gabriel Peyré and Marco Cuturi. **Entropic Optimal Transport between (Unbalanced) Gaussian Measures has a Closed Form**, NeurIPS 2020 (oral). [[Paper]](https://arxiv.org/abs/2006.02572) [[Code]](https://github.com/hichamjanati/Entropic-OT-gaussians)
 
