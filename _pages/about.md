@@ -15,7 +15,7 @@ I am a post-doctoral researcher at [Sierra](https://www.di.ens.fr/sierra/), fund
 
 ## Research interests ##
 
-My research is focused on applying tools from the optimal transport theory to machine learning and vice-versa.
+My research is focused on applying tools from the optimal transport theory to machine learning, and vice-versa.
 
 ## News ##
 
@@ -25,6 +25,8 @@ I defended my thesis on the 26th of October: here are the [slides](https://boris
 
 
 ### Recent events ###
+
+* [21/06/2021] New [Note on Optimizing Distributions using Kernel Mean Embeddings](https://arxiv.org/abs/2106.09994). Joint work with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Alessandro Rudi](https://www.di.ens.fr/~rudi/).
 
 * [17/06/2021] I have been awarded a [PhD Thesis Award](https://www.ip-paris.fr/en/news/three-phd-thesis-awards) from IP Paris!
 
