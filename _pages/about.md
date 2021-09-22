@@ -23,11 +23,10 @@ I defended my thesis on the 26th of October: here are the [slides](https://boris
 
 ### Upcoming events ###
 
+* [19/10/2021] I will give a talk on estimating smooth optimal transport using kernel sums-of-squares at [RIKEN AIP](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/127501). 
 
 ### Recent events ###
 
 * [21/06/2021] New [Note on Optimizing Distributions using Kernel Mean Embeddings](https://arxiv.org/abs/2106.09994). Joint work with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Alessandro Rudi](https://www.di.ens.fr/~rudi/).
 
 * [17/06/2021] I have been awarded a [PhD Thesis Award](https://www.ip-paris.fr/en/news/three-phd-thesis-awards) from IP Paris!
-
-* [14/05/2021] Our work [A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation](https://arxiv.org/abs/2101.05380) has been accepted to [COLT](http://learningtheory.org/colt2021/index.html).
