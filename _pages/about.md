@@ -15,7 +15,7 @@ I am a post-doctoral researcher at [Sierra](https://www.di.ens.fr/sierra/), fund
 
 ## Research interests ##
 
-My research is focused on applying tools from the optimal transport theory to machine learning, and vice-versa. During my PhD, I leveraged the closed form of OT between elliptical distributions, along with regularized approaches of OT, to make a few contributions towards helping OT theory overcome some of its computational and statistical drawbacks,  and gain applicability in machine learning. Starting from my postdoc, I got interested in using kernel methods to design algorithms that alleviate the curse of dimensionality in OT between distributions with smooth densities.
+My research is focused on applying tools from the optimal transport theory to machine learning, and vice-versa. During my PhD, I leveraged the closed form of OT between elliptical distributions, along with regularized approaches of OT, to make a few contributions towards helping OT theory overcome some of its computational and statistical drawbacks, and gain applicability in machine learning. Starting from my postdoc, I got interested in using kernel methods to design algorithms that alleviate the curse of dimensionality in OT between distributions with smooth densities.
 
 ## News ##
 
