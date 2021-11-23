@@ -11,7 +11,7 @@ My PhD manuscript can be found [here](https://tel.archives-ouvertes.fr/tel-03084
 
 ## Preprints and working papers ##
 
-Boris Muzellec, Francis Bach and Alessandro Rudi. **A Note on Optimizing Distributions using Kernel Mean Embeddings**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2106.09994) [[Code]](https://github.com/BorisMuzellec/kernel-SoS-distributions)
+Boris Muzellec, Francis Bach and Alessandro Rudi. **Learning PSD-valued functions using kernel sums-of-squares**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2111.11306)
 
 Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint, 2020. [[Paper]](https://arxiv.org/abs/2003.00306)
 
@@ -32,3 +32,7 @@ Boris Muzellec, Marco Cuturi.
 
 Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen.
   **Tsallis Regularized Optimal Transport and Ecological Inference**, AAAI 2017. [[Paper]](https://arxiv.org/abs/1609.04495) [[Code]](https://github.com/BorisMuzellec/TROT)
+
+## Notes and technical reports ##
+
+Boris Muzellec, Francis Bach and Alessandro Rudi. **A Note on Optimizing Distributions using Kernel Mean Embeddings**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2106.09994) [[Code]](https://github.com/BorisMuzellec/kernel-SoS-distributions)
