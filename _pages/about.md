@@ -24,6 +24,6 @@ My research is focused on applying tools from the optimal transport theory to ma
 
 ### Recent events ###
 
-* [23/11/2021] New preprint: [Learning PSD-valued functions using kernel sums-of-squares](https://arxiv.org/abs/2111.11306). Joint work with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Alessandro Rudi](https://www.di.ens.fr/~rudi/).
+* [06/12/2021] New preprint: [Near-optimal estimation of smooth transport maps with kernel sums-of-squares](https://arxiv.org/abs/2112.01907). Joint work with Adrien Vacher, [Francis Bach](https://www.di.ens.fr/~fbach/), [François-Xavier Vialard](http://angkor.univ-mlv.fr/~vialard/) and [Alessandro Rudi](https://www.di.ens.fr/~rudi/).
 
-* [19/10/2021] I gave a talk on estimating smooth optimal transport using kernel sums-of-squares at [RIKEN AIP](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/127501).
+* [23/11/2021] New preprint: [Learning PSD-valued functions using kernel sums-of-squares](https://arxiv.org/abs/2111.11306). Joint work with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Alessandro Rudi](https://www.di.ens.fr/~rudi/).

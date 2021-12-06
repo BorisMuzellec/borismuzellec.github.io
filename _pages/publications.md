@@ -11,6 +11,8 @@ My PhD manuscript can be found [here](https://tel.archives-ouvertes.fr/tel-03084
 
 ## Preprints and working papers ##
 
+Boris Muzellec, Adriven Vacher, Francis Bach, François-Xavier Vialard and Alessandro Rudi. **Near-optimal estimation of smooth transport maps with kernel sums-of-squares**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2112.01907)
+
 Boris Muzellec, Francis Bach and Alessandro Rudi. **Learning PSD-valued functions using kernel sums-of-squares**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2111.11306)
 
 Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint, 2020. [[Paper]](https://arxiv.org/abs/2003.00306)
