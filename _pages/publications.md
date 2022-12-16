@@ -11,13 +11,17 @@ My PhD manuscript can be found [here](https://tel.archives-ouvertes.fr/tel-03084
 
 ## Preprints and working papers ##
 
-Boris Muzellec, Adriven Vacher, Francis Bach, François-Xavier Vialard and Alessandro Rudi. **Near-optimal estimation of smooth transport maps with kernel sums-of-squares**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2112.01907)
+Boris Muzellec, Adrien Vacher, Francis Bach, François-Xavier Vialard and Alessandro Rudi. **Near-optimal estimation of smooth transport maps with kernel sums-of-squares**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2112.01907)
 
 Boris Muzellec, Francis Bach and Alessandro Rudi. **Learning PSD-valued functions using kernel sums-of-squares**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2111.11306)
 
-Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, arXiv preprint, 2020. [[Paper]](https://arxiv.org/abs/2003.00306)
-
 ## Conferences ##
+
+Jean Ogier du Terrail et al. **FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings**, NeurIPS Datasets & Benchmarks 2022. [[Paper]](https://arxiv.org/abs/2210.04620) [[Code]](https://github.com/owkin/FLamby)
+
+Tanguy Marchand, Boris Muzellec, Constance Beguier, Jean Ogier du Terrail, Mathieu Andreux. **SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning**, NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2210.01639)
+
+Boris Muzellec, Kanji Sato, Mathurin Massias and Taiji Suzuki. **Dimension-free convergence rates for gradient Langevin dynamics in RKHS**, COLT 2022. [[Paper]](https://arxiv.org/abs/2003.00306)
 
 Adrien Vacher, Boris Muzellec, Alessandro Rudi, Francis Bach and François-Xavier Vialard. **A Dimension-free Computational Upper Bound for Smooth Optimal Transport Estimation**, COLT 2021. [[Paper]](https://arxiv.org/pdf/2101.05380.pdf) [[Code]](https://github.com/BorisMuzellec/kernel-sos-ot)
 
@@ -38,3 +42,7 @@ Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen.
 ## Notes and technical reports ##
 
 Boris Muzellec, Francis Bach and Alessandro Rudi. **A Note on Optimizing Distributions using Kernel Mean Embeddings**, arXiv preprint, 2021. [[Paper]](https://arxiv.org/abs/2106.09994) [[Code]](https://github.com/BorisMuzellec/kernel-SoS-distributions)
+
+## Software ##
+
+Boris Muzellec, Maria Telenczuk, Vincent Cabeli and Mathieu Andreux. **PyDESeq2: a python package for bulk RNA-seq differential expression analysis**, python package, 2022. [[Code]](https://github.com/owkin/pydeseq2)
